@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey there ✨
 
-<!--
-**melodymdev/melodymdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web Developer ٭ Twitch Streamer ٭ Dog Mom**
 
-Here are some ideas to get you started:
+- 🌉 Where I presently reside: San Francisco Bay Area
+- 🌱 What I am currently learning: Javascript 
+- 🤓 What I want to learn next: React 
+- 👩 Pronouns: She/Her
+- ⚡ Fun fact: I love to collect Pokemon cards!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Socials**
+- 🖱️ [Twitch](https://www.twitch.tv/melodydev)
+- 📱 [Twitter](https://twitter.com/melodymdev)
+
+
