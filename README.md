@@ -11,5 +11,6 @@
 **Socials**
 - 🖱️ [Twitch](https://www.twitch.tv/melodydev)
 - 📱 [Twitter](https://twitter.com/melodymdev)
+- 📷[YouTube](https://www.youtube.com/channel/UCaTuCcZzP7ZaBLzYLoxRDZg)
 
 
