@@ -1,6 +1,6 @@
 ### Hey there ✨
 
-**Web Developer ٭ Twitch Streamer ٭ Dog Mom**
+**Apprentice Laravel Developer ٭ Twitch Streamer ٭ Dog Mom**
 
 - 🌉 Where I presently reside: San Francisco Bay Area
 - 🌱 What I am currently learning: PHP
