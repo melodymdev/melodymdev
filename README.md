@@ -2,8 +2,8 @@
 
 **Apprentice Web Developer ٭ Twitch Streamer ٭ Dog Mom**
 
-- 🌱 What I am currently learning: PHP
-- 🤓 What I want to learn next: Laravel
+- 🌱 What I am currently learning: Laravel
+- 🤓 What I want to learn next: React
 - 👩 Pronouns: She/Her
 - ⚡ Fun fact: I love to collect Pokemon cards!
 
