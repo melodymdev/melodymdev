@@ -8,9 +8,7 @@
 - ⚡ Fun fact: I love to collect Pokemon cards!
 
 **Socials**
-- 💻 [Portfolio](https://melodym.dev/)
 - 📷 [YouTube](https://www.youtube.com/channel/UCaTuCcZzP7ZaBLzYLoxRDZg)
-- 📰 [Blog](https://blog.melodym.dev/)
 - 🖱️ [Twitch](https://www.twitch.tv/melodydev)
 - 📱 [Twitter](https://twitter.com/melodymdev)
 
