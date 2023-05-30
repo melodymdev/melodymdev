@@ -1,6 +1,6 @@
 ### Hey there ✨
 
-**Associate Web Developer ٭ Twitch Streamer ٭ Dog Mom**
+**Associate Web Developer**
 
 - 🌱 What I am currently learning: Laravel
 - 🤓 What I want to learn next: React
